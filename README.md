@@ -8,13 +8,17 @@ You must select the parameter by typing the number or name. Then, you need to ty
 
 The output will be:
 
-!addbulk "parameter" = "item
-"parameter" = "item
-"parameter" = "item
-"parameter" = "item
-"parameter" = "item
+!addbulk "parameter" = "item"
+
+"parameter" = "item"
+
+"parameter" = "item"
+
 .
+
 .
+
 .
+
 
 Remember that !addbulk command only works for more than 1  item.
