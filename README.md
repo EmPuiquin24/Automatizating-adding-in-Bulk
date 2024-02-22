@@ -2,9 +2,9 @@
 
 Brief explanation:
 
-The programm will ask you for the parameter you'll use. Tf2Autobot supports five types of them.
+The program will ask you for the parameter you'll use. Tf2Autobot supports five types of them.
 
-You just need to select the parameter by typing the number or writing the name. Then, you just need to type the item's parameter you selected.
+You must select the parameter by typing the number or name. Then, you need to type the item's parameter you selected.
 
 The output will be:
 
